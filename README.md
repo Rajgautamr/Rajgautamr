@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently In 2nd year At AKGEC <br>👯 I’m looking to collaborate on BlockChain<br>🤝 I’m looking for help with Desiging And FrontEnd<br>🌱 I’m currently learning React JS<br>💬 Ask me about Anything<br>
+🔭 I’m currently In 2nd year At AKGEC <br>👯 I’m looking to collaborate on BlockChain<br>🤝 I’m looking for help with Designing And FrontEnd<br>🌱 I’m currently learning React JS<br>💬 Ask me about Anything<br>
 
 
 ## 🌐 Socials:
